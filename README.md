@@ -35,8 +35,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-faq-accordion-css-only-7oiVjy0G6l)
+- Live Site URL: [GitHub](https://nicoams.github.io/faq-accordion/)
 
 ## My process
 
